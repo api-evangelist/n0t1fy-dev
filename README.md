@@ -64,5 +64,130 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-n0t1fy-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://n0t1fy.dev/
+Notify (n0t1fy.dev) provides a developer-first transactional SMS API tailored for the Georgian market. It enables sending verification, sign-in, password-reset, and custom messages in both Georgian and English, with honest delivery status reporting and Unicode support. The platform focuses on simplicity, reliability, and compliance, offering clear documentation and transparent pricing for developers building authentication flows and user communications in Georgia.
+
+**Areas:** Company · SMS · Georgia · Transactional · Developer-First
+
+## n0t1fy-dev on APIs.io
+
+Everything profiled for n0t1fy-dev is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/n0t1fy-dev/](https://apis.io/providers/n0t1fy-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [n0t1fy-dev Health API](https://apis.io/apis/n0t1fy-dev/n0t1fy-dev-health-api/) — The health API from n0t1fy-dev — 2 operation(s) for health.
+- [n0t1fy-dev Keys API](https://apis.io/apis/n0t1fy-dev/n0t1fy-dev-keys-api/) — The keys API from n0t1fy-dev — 1 operation(s) for keys.
+- [n0t1fy-dev Messages API](https://apis.io/apis/n0t1fy-dev/n0t1fy-dev-messages-api/) — The messages API from n0t1fy-dev — 2 operation(s) for messages.
+- [n0t1fy-dev Verifications API](https://apis.io/apis/n0t1fy-dev/n0t1fy-dev-verifications-api/) — The verifications API from n0t1fy-dev — 2 operation(s) for verifications.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [N0T1Fy Dev Agentic Access](https://apis.io/agentic-access/n0t1fy-dev/n0t1fy-dev-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [ApprovedVerificationResponse](https://apis.io/schemas/n0t1fy-dev/n0t1fy-dev-approved-verification-response/)
+- [CreateMessageRequest](https://apis.io/schemas/n0t1fy-dev/n0t1fy-dev-create-message-request/)
+- [MessageResponse](https://apis.io/schemas/n0t1fy-dev/n0t1fy-dev-message-response/)
+- [StartVerificationRequest](https://apis.io/schemas/n0t1fy-dev/n0t1fy-dev-start-verification-request/)
+- [TestKeyResponse](https://apis.io/schemas/n0t1fy-dev/n0t1fy-dev-test-key-response/)
+- [VerificationResponse](https://apis.io/schemas/n0t1fy-dev/n0t1fy-dev-verification-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [N0T1Fy Dev Context](https://apis.io/jsonld/n0t1fy-dev/n0t1fy-dev-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [n0t1fy-dev API Rules](https://apis.io/rules/n0t1fy-dev/n0t1fy-dev-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [N0T1Fy Dev Authentication](https://apis.io/security/n0t1fy-dev/n0t1fy-dev-authentication/)
+- [N0T1Fy Dev Domain Security](https://apis.io/security/n0t1fy-dev/n0t1fy-dev-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [N0T1Fy Dev Plans Pricing](https://apis.io/plans/n0t1fy-dev/n0t1fy-dev-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://n0t1fy.dev/)
+- [Documentation](https://n0t1fy.dev/api)
+- [API reference](https://n0t1fy.dev/api.md)
+- [Pricing](https://n0t1fy.dev/pricing)
+- [Terms of service](https://n0t1fy.dev/terms)
+- [Privacy policy](https://n0t1fy.dev/privacy)
+- [GitHub](https://github.com/n0t1fy)
+
+## API Evangelist rating
+
+**Kin Score 51.8** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 56.2 |
+| Contract governance | 70.9 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 73.2 |
+
+**Agent readiness 46.4** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 20.8** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/n0t1fy-dev/](https://apis.io/providers/n0t1fy-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for n0t1fy-dev: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/n0t1fy-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
